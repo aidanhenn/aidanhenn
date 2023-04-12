@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm **Aidan**, a Junior CS major at Eastern Connecticut State University.
+
+#computer I’m currently working on deploying my Team Scoring App.
+
+#book-paper I'm currently learning React and working with API's.
+
+📫 [Linkedin](www.linkedin.com/in/aidan-hennessy) [aidanhennessy@icloud.com](aidanhennessy@icloud.com)
+
 <!--
 **aidanhenn/aidanhenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
