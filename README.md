@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm **Aidan**, a Junior CS major at Eastern Connecticut State University.
+I'm **Aidan**, a Senior CS major at Eastern Connecticut State University.
 
-💻 I’m currently working on deploying my Team Scoring App.
+💻 I’m currently working on building a checkout bot.
 
-📚 I'm currently learning React and working with API's.
+📚 I'm currently learning Python.
 
 📫 [Linkedin](//www.linkedin.com/in/aidan-hennessy) [aidanhennessy.com](//aidanhennessy.com)
 
