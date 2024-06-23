@@ -9,7 +9,7 @@ I just graduated from Eastern Connecticut State University in May 2024 with a de
 ⚡ Check out some of my projects at [aidanhennessy.com](http://aidanhennessy.com)
 
 ## Projects
-- **T&F Team Score Predictor | JavaScript, Express, Puppeteer**: Predicts team scores based on results from current season. [Repository Link](https://github.com/aidanhenn/Track-And-Field-Team-Score-Predictor)
+- **T&F Team Score Predictor | JavaScript, Express, Puppeteer**: Predicts team scores based on results from current season. [Repo Link](https://github.com/aidanhenn/Track-And-Field-Team-Score-Predictor)
 <!-- - **Another Project**: Brief description. [Repository Link](#) -->
 
 ## Skills
