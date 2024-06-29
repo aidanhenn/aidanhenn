@@ -10,6 +10,7 @@ I just graduated from Eastern Connecticut State University in May 2024 with a de
 
 ## Projects
 - **T&F Team Score Predictor | JavaScript, Express, Puppeteer**: Predicts team scores based on results from current season. [Repo Link](https://github.com/aidanhenn/Track-And-Field-Team-Score-Predictor)
+- **Who Unfollowed Me On Instagram? | Javascript, JSON, HTML, CSS**: Displays users who are not following you back. [Repo Link](https://github.com/aidanhenn/WhoUnfollowedMe)
 <!-- - **Another Project**: Brief description. [Repository Link](#) -->
 
 ## Skills
