@@ -1,10 +1,11 @@
-# Hi there! I'm Aidan 👋
+# Hi 👋 I'm Aidan Hennessy
 
-I just graduated from Eastern Connecticut State University in May 2024 with a degree in Computer Science
+## About Me
+I just graduated from Eastern Connecticut State University in May of 2024 with a degree in Computer Science
 
 🌱 I’m currently learning **React**
 
-📫 Feel free to reach out via [Email](aidanjhennessy@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+📫 Feel free to reach out via [Email](aidanjhennessy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
 ⚡ Check out some of my projects at [aidanhennessy.com](http://aidanhennessy.com)
 
