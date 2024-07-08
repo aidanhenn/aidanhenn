@@ -4,13 +4,11 @@
 I graduated from Eastern Connecticut State University in May 2024 with a degree in Computer Science. I'm passionate about web development, automation, and building user-friendly applications. My interests lie in continuously learning and applying new technologies to solve real-world problems.
 
 
-🌱 I’m currently learning:  ![React][React.js]
+🌱 I’m currently learning:  ![React][React.js] <br>
+
+:books: Working through FreeCodeCamp's **Legacy JavaScript Algorithms and Data Structures**
 
 📫 Feel free to reach out via [![myEmail][Email]](mailto:aidanjhennessy@gmail.com) or [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-
 
 ⚡ Check out some of my projects at: [aidanhennessy.com](http://aidanhennessy.com)
 
