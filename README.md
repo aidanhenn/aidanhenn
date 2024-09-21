@@ -1,21 +1,21 @@
 # Hi 👋 I'm Aidan
 
 ## About Me
-I graduated from Eastern Connecticut State University in May 2024 with a degree in Computer Science. I'm passionate about web development, automation, and building user-friendly applications. My interests lie in continuously learning and applying new technologies to solve real-world problems.
+I recently graduated from Eastern Connecticut State University with a Bachelor's in Computer Science. I'm passionate about full stack development, automation, and creating applications that enhance efficiency. I am driven by the continuous pursuit of learning and applying new technologies to solve real-world challenges.
 
 
 🌱 I’m currently learning:  ![React][React.js] <br>
 
-:books: Working through FreeCodeCamp's **Legacy JavaScript Algorithms and Data Structures**
+:books: I'm working on FreeCodeCamp's **Legacy JavaScript Algorithms and Data Structures**
 
-📫 Feel free to reach out via [![myEmail][Email]](mailto:aidanjhennessy@gmail.com) or [![LinkedIn][linkedin-shield]][linkedin-url]
+📫 Feel free to reach out! [![myEmail][Email]](mailto:aidanjhennessy@gmail.com) or [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ⚡ Check out some of my projects at: [aidanhennessy.com](http://aidanhennessy.com)
 
 ## Projects
-- **T&F Team Score Predictor | JavaScript, Express, Puppeteer**: Predicts team scores based on results from the current season. [Check it out!](https://team-scoring-app-6b025b09d32e.herokuapp.com/)
+- **[T&F Team Score Predictor](https://team-scoring-app-6b025b09d32e.herokuapp.com/) | JavaScript, Express, Puppeteer**: Predicts team scores based on results from the current season.
 
-- **Who Unfollowed Me On Instagram? | Javascript, JSON, HTML, CSS**: Displays users who are not following you back. [Repo Link](https://github.com/aidanhenn/WhoUnfollowedMe)
+- **[Who Unfollowed Me On Instagram?](https://github.com/aidanhenn/WhoUnfollowedMe) | Javascript, JSON, HTML, CSS**: Displays users who are not following you back.
 <!-- - **Another Project**: Brief description. [Repository Link](#) -->
 
 # 💻 Tech Stack:
