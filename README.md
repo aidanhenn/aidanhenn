@@ -4,9 +4,9 @@
 I recently graduated from Eastern Connecticut State University with a Bachelor's in Computer Science. I'm passionate about full stack development, automation, and creating applications that enhance efficiency. I am driven by the continuous pursuit of learning and applying new technologies to solve real-world challenges.
 
 
-🌱 I’m currently learning:  ![React][React.js] <br>
+🌱 I’m currently learning: Web Scraping! <br>
 
-:books: I'm working on FreeCodeCamp's **Legacy JavaScript Algorithms and Data Structures**
+:books: I'm working on FreeCodeCamp's **JavaScript Back End Development and APIs**
 
 📫 Feel free to reach out! [![myEmail][Email]](mailto:aidanjhennessy@gmail.com) or [![LinkedIn][linkedin-shield]][linkedin-url]
 
