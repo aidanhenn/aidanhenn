@@ -1,10 +1,9 @@
 # Hi 👋 I'm Aidan
 
 ## About Me
-I recently graduated from Eastern Connecticut State University with a Bachelor's in Computer Science. I'm passionate about full stack development, automation, and creating applications that enhance efficiency. I am driven by the continuous pursuit of learning and applying new technologies to solve real-world challenges.
+I recently graduated from Eastern Connecticut State University with a Bachelor's in Computer Science. I'm passionate about full stack development, automation, and creating applications that enhance efficiency. 
 
-
-🌱 I’m currently learning: Web Scraping! <br>
+🌱 I’m currently: learning Web Scraping and doing Freelance work on [Upwork](https://www.upwork.com/freelancers/~010a2a8bbc1240be94) <br> 
 
 :books: I'm working on FreeCodeCamp's **JavaScript Back End Development and APIs**
 
