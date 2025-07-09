@@ -1,26 +1,25 @@
-# Hi 👋 I'm Aidan
-
 ## About Me
-I recently graduated from Eastern Connecticut State University with a Bachelor's in Computer Science. I'm passionate about full stack development, automation, and creating applications that enhance efficiency. 
+🏫 I graduated from Eastern Connecticut State University in May of 2024 with a Bachelor's in CS. 
 
-🌱 I’m currently: learning Web Scraping and doing Freelance work on [Upwork](https://www.upwork.com/freelancers/~010a2a8bbc1240be94) <br> 
+🧠 I'm passionate about full stack development, automation, and building applications that enhance efficiency. 
 
-:books: I'm working on FreeCodeCamp's **JavaScript Back End Development and APIs**
+🌱 I’m currently: Building a sports betting arbitrage tool for a discord community and doing freelance work on [Upwork](https://www.upwork.com/freelancers/~010a2a8bbc1240be94). <br> 
 
-📫 Feel free to reach out! [![myEmail][Email]](mailto:aidanjhennessy@gmail.com) or [![LinkedIn][linkedin-shield]][linkedin-url]
-
-⚡ Check out some of my projects at: [aidanhennessy.com](http://aidanhennessy.com)
+<!--⚡ Check out some of my projects at: [aidanhennessy.com](http://aidanhennessy.com) -->
 
 ## Projects
-- **[T&F Team Score Predictor](https://team-scoring-app-6b025b09d32e.herokuapp.com/) | JavaScript, Express, Puppeteer**: Predicts team scores based on results from the current season.
+- **[Track and Field Team Score Predictor](https://github.com/aidanhenn/team-scoring-app) | JavaScript, Express, Puppeteer** 
+  - This is a tool I built for my college teammates to calculate current team standings based on our conferences [TFRRS performace list](https://tf.tfrrs.org/outdoor_lists.html) and the track and field [point scoring system](https://www.usatf.org/events/2010/usa-youth-outdoor-track-field-championships/athlete-info).
+- **[Who Unfollowed Me On Instagram?](https://github.com/aidanhenn/WhoUnfollowedMe) | Javascript, JSON, HTML, CSS**
+  - This is a simple app I built to show who has unfollowed you on Insagram by comparing your followers and following lists which you can [download on Instagram](https://help.instagram.com/181231772500920?helpref=about_content).
+ 
 
-- **[Who Unfollowed Me On Instagram?](https://github.com/aidanhenn/WhoUnfollowedMe) | Javascript, JSON, HTML, CSS**: Displays users who are not following you back.
 <!-- - **Another Project**: Brief description. [Repository Link](#) -->
 
 # 💻 Tech Stack:
 - **Languages**: ![JAVASCRIPT] ![Python] ![SQL] ![html][HTML] ![CSS] ![R]
 - **Developer Tools**: ![git][GIT]
-- **Libraries/Frameworks**: React, ![NodeJS][NodeJS] ![express.js][EXPRESS] ![puppeteer][PUPPETEER]
+- **Libraries/Frameworks**: ![React][REACT] ![NodeJS][NODEJS] ![express.js][EXPRESS] ![puppeteer][PUPPETEER]
 
 <h3>Thanks for visiting my profile!</h3>
 
@@ -28,10 +27,10 @@ I recently graduated from Eastern Connecticut State University with a Bachelor's
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/aidan-hennessy
 [Email]:https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[REACT]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [JAVASCRIPT]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [Python]: https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white
-[NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[NODEJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [SQL]: https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white
 [HTML]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS]: https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
